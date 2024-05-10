@@ -52,3 +52,12 @@ def extract_event_data(data):
     details['status'] = status
 
     return details
+
+# Extract event data, append to list
+def parse_event_list(api_response):
+    events = list()
+    for idx,r in enumerate(api_response):
+        # print(idx)
+        e = extract_event_data(r)
+        events.append(e)
+    return events

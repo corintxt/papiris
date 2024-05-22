@@ -47,7 +47,7 @@ def call_iris():
         # Step 2: Execute the filter
         execution_url = e_url
         params = {
-            "max": 100,
+            "max": 200,
             "start": 0
         }
         body = filter_definition

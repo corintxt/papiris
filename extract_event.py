@@ -4,6 +4,7 @@ def extract_event_data(data):
     
     # Get ID
     event_id = data['sequenceId']
+    event_hash = data['id']
     
     # Extract the event title (assuming it's in English) and ID
     event_title = data['title']['en']
@@ -50,6 +51,8 @@ def extract_event_data(data):
     details['lat'] = latitude
     details['lon'] = longitude
     details['status'] = status
+    details['event_hash'] = event_hash
+
 
     return details
 

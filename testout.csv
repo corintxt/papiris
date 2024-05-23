@@ -1,59 +1,59 @@
-event_id,candidate,event_title,city,state,date,time,lat,lon,status
-LYE05,BIDEN,President Joe Biden delivers a major speech kickstarting his 2024 re-election campaign,Philadelphia,Pennsylvania,2024-01-05,15:00,39.95234,-75.16379,VALID
-LYE74,TRUMP,Ex-president Donald Trump holds campaign event,Mason City,Iowa,2024-01-05,19:30,43.15357,-93.20104,VALID
-LYJ51,TRUMP,Ex-President Donald Trump holds campaign event,Newton,Iowa,2024-01-06,10:00,41.69971,-93.04798,VALID
-LYJ50,TRUMP,Ex-President Donald Trump holds campaign event,Clinton,Iowa,2024-01-06,13:00,41.84447,-90.18874,VALID
-LYO08,BIDEN,President Joe Biden visits majority Black community as part of his election campaign,Charleston,South Carolina,2024-01-08,,32.77657,-79.93092,VALID
-LYJ55,TRUMP,Ex-President Donald Trump attends FOX Town Hall event,Des Moines,Iowa,2024-01-10,20:30,41.60054,-93.60911,VALID
-LZK37,TRUMP,Ex-President Donald Trump campaign event,Indianola,Iowa,2024-01-14,09:00,41.35805,-93.55744,VALID
-LZK40,TRUMP,Ex-President Donald Trump campaign event,Atkinson,New Hampshire,2024-01-16,12:00,42.83842,-71.147,VALID
-MAA18,TRUMP,Ex-president Donald Trump campaign event,Portsmouth,New Hampshire,2024-01-17,19:00,43.07704,-70.75766,VALID
-MAD07,BIDEN,President Joe Biden holds event to promote his economic agenda,Raleigh,North Carolina,2024-01-18,14:00,35.7721,-78.63861,VALID
-MAH16,TRUMP,Ex-president Donald Trump campaign event,Concord,New Hampshire,2024-01-19,16:00,43.20814,-71.53757,VALID
-MAH09,TRUMP,Ex-President Donald Trump campaign event,Manchester,New Hampshire,2024-01-20,16:00,42.99564,-71.45479,VALID
-MAH10,TRUMP,Ex-President Donald Trump campaign event,Rochester,New Hampshire,2024-01-21,16:00,43.30453,-70.97562,VALID
-MAQ50,TRUMP,Former President Donald Trump holds rally,Laconia,New Hampshire,2024-01-22,,43.52785,-71.47035,VALID
-MAP67,BIDEN,President Joe Biden gives a speech on abortion rights,Manassas,Virginia,2024-01-23,,38.75095,-77.47527,VALID
-MBA83,TRUMP,Ex-President Donald Trump campaign rally,Las Vegas,Nevada,2024-01-27,11:00,36.17497,-115.13722,VALID
-MBE41,BIDEN,Biden speaks at political event,Columbia,South Carolina,2024-01-27,19:00,34.00071,-81.03481,VALID
-MBK37,BIDEN,President Joe Biden visits Florida for campaign events,Palm Beach,Florida,2024-01-30,,26.70562,-80.03643,VALID
-MBY93,BIDEN,President Joe Biden stops at campaign headquarters,Wilmington,Delaware,2024-02-03,,39.74595,-75.54659,VALID
-MBY43,BIDEN,US President Biden holds campaign event,Las Vegas,Nevada,2024-02-04,16:30,36.17497,-115.13722,VALID
-MCW00,TRUMP,Trump holds a “Get Out the Vote” rally,Conway,South Carolina,2024-02-10,14:00,33.836,-79.04781,VALID
-MDE10,TRUMP,Donald Trump holds a Get Out the Vote rally US election,Waterford Township,United States,2024-02-17,17:00,,,CANDIDATE
-MEC11,BIDEN,President Joe Biden attends campaign reception,Los Angeles,California,2024-02-20,19:15,34.05223,-118.24368,VALID
-MEL81,TRUMP,Former US President and 2024 presidential hopeful Donald Trump addresses a Get Out the Vote rally ,Rock Hill,South Carolina,2024-02-23,,34.92487,-81.02508,VALID
-MEN33,TRUMP,Trump Campaign to Host an Election Night Watch Party,Columbia,South Carolina,2024-02-24,16:00,34.00071,-81.03481,VALID
-MFI09,TRUMP,Donald Trump campaign event,Greensboro,North Carolina,2024-03-02,13:00,36.07264,-79.79198,VALID
-MFI04,TRUMP,Donald Trump holds a Get Out the Vote rally,Richmond,Virginia,2024-03-02,17:30,37.55376,-77.46026,VALID
-MFN61,TRUMP,Donald Trump holds a Super Tuesday election night watch party,Palm Beach,Florida,2024-03-05,08:00,26.70562,-80.03643,VALID
-MFY56,BIDEN,President Joe Biden speaks at a campaign event,Philadelphia,Pennsylvania,2024-03-08,15:00,39.95234,-75.16379,VALID
-MGC18,BIDEN,Presidenti Biden attends campaign events,Atlanta,Georgia,2024-03-09,,33.749,-84.38798,VALID
-MGB52,TRUMP,Donald Trump speaks during a Get-Out-the-Vote rally,Rome,Unknown,2024-03-09,,34.25704,-85.16467,NOT_USABLE
-MGD37,BIDEN,President Joe Biden speaks about lowering costs for families,Manchester,New Hampshire,2024-03-11,15:00,42.99564,-71.45479,VALID
-MGI45,BIDEN,President Biden holds a campaign meeting at the Teamsters Union,Washington,District of Columbia,2024-03-12,12:00,38.89511,-77.03637,VALID
-MGK11,BIDEN,President Joe Biden speaks on the economy,Milwaukee,Wisconsin,2024-03-13,13:30,43.0389,-87.90647,VALID
-MGM45,BIDEN,President Joe Biden attends a campaign event,Saginaw,Michigan,2024-03-14,08:00,43.41947,-83.95081,VALID
-MGU11,TRUMP,Ex-President Donald Trump campaign event,Vandalia,United States,2024-03-16,16:00,39.89061,-84.19883,CANDIDATE
-MGZ70,BIDEN,President Joe Biden delivers remarks on lowering costs for American families,Las Vegas,Nevada,2024-03-19,,36.17497,-115.13722,VALID
-MGZ69,BIDEN,President Joe Biden participates in a campaign event,Reno,Nevada,2024-03-19,,39.52963,-119.8138,VALID
-MGZ71,BIDEN,President Joe Biden participates in a campaign event,Phoenix,Arizona,2024-03-19,,33.44838,-112.07404,VALID
-MHC76,BIDEN,President Biden participates in campaign receptions,Dallas,Texas,2024-03-20,18:00,32.78306,-96.80667,VALID
-MGZ74,BIDEN,President Joe Biden takes part in a campaign event,Houston,Texas,2024-03-21,17:00,29.76328,-95.36327,VALID
-MHM97,BIDEN,"President Joe Biden, ex-presidents Barack Obama, Bill Clinton hold election fundraiser",New York,State of New York,2024-03-28,17:00,40.71427,-74.00597,VALID
-MIJ92,TRUMP,Ex-president Donald Trump delivers remarks on immigration and border crime,Grand Rapids,Michigan,2024-04-02,14:30,42.96336,-85.66809,VALID
-MJA33,BIDEN,"US President Joe Biden speaks about student debt relief in Madison, Wisconsin",Madison,Wisconsin,2024-04-08,,43.07305,-89.40123,VALID
-MJJ50,TRUMP,Donald Trump holds campaign event in US state of Georgia,Washington,District of Columbia,2024-04-10,,38.89511,-77.03637,VALID
-MIY80,TRUMP,Former US president Donald Trump holds a rally,Schnecksville,United States,2024-04-13,19:00,,,CANDIDATE
-MJW52,BIDEN,President Joe Biden holds campaign rally in his hometown,Scranton,Pennsylvania,2024-04-16,,41.40916,-75.6649,VALID
-MJW57,BIDEN,President Joe Biden campaigns in Pittsburgh,Pittsburgh,Pennsylvania,2024-04-17,,40.44062,-79.99589,VALID
-MKD99,BIDEN,US President Joe Biden speaks at a campaign event,Philadelphia,Pennsylvania,2024-04-18,,39.95234,-75.16379,VALID
-MJZ76,TRUMP,Donald Trump holds a political rally,Wilmington,North Carolina,2024-04-20,19:00,34.22573,-77.94471,VALID
-MKX61,BIDEN,President Joe Biden event on his economic agenda,Syracuse,State of New York,2024-04-25,14:00,43.04812,-76.14742,VALID
-MLN01,TRUMP,Donald Trump holds a campaign rally,Waukesha,Wisconsin,2024-05-01,14:00,43.01168,-88.23148,VALID
-MLN02,TRUMP,Donald Trump holds a campaign rally,"Freeland, Michigan",United States,2024-05-01,18:00,,,CANDIDATE
-MLO89,BIDEN,President Joe Biden delivers remarks on infrastructure and employment,Wilmington,North Carolina,2024-05-02,,34.22573,-77.94471,VALID
-MMD10,BIDEN,President Joe Biden delivers remarks on investment,"Sturtevant, Wisconsin",United States,2024-05-08,12:45,,,CANDIDATE
-MMD21,BIDEN,President Joe Biden participates in a campaign event,Racine,Wisconsin,2024-05-08,13:00,42.72613,-87.78285,VALID
-MMG66,TRUMP,Donald Trump holds presidential election rally,Wildwood,New Jersey,2024-05-11,17:00,38.99178,-74.81489,VALID
-MMQ43,BIDEN,President Joe Biden campaigns for presidential election,Atlanta,Georgia,2024-05-18,,33.749,-84.38798,VALID
+event_id,candidate,event_title,city,state,date,time,lat,lon,status,event_hash
+LYE05,BIDEN,President Joe Biden delivers a major speech kickstarting his 2024 re-election campaign,Philadelphia,Pennsylvania,2024-01-05,15:00,39.95234,-75.16379,VALID,1a622d36-789f-480e-8172-755611e7676b
+LYE74,TRUMP,Ex-president Donald Trump holds campaign event,Mason City,Iowa,2024-01-05,19:30,43.15357,-93.20104,VALID,2b975b40-e0b3-4c2a-be21-2289c9bc85dd
+LYJ51,TRUMP,Ex-President Donald Trump holds campaign event,Newton,Iowa,2024-01-06,10:00,41.69971,-93.04798,VALID,91a82ab3-7d16-4432-b065-b5fad22a3da7
+LYJ50,TRUMP,Ex-President Donald Trump holds campaign event,Clinton,Iowa,2024-01-06,13:00,41.84447,-90.18874,VALID,1b19aae3-bbac-40c5-a5c3-a5c86c7a813b
+LYO08,BIDEN,President Joe Biden visits majority Black community as part of his election campaign,Charleston,South Carolina,2024-01-08,,32.77657,-79.93092,VALID,7d2e2222-1480-4a6b-b96c-ffaa07688492
+LYJ55,TRUMP,Ex-President Donald Trump attends FOX Town Hall event,Des Moines,Iowa,2024-01-10,20:30,41.60054,-93.60911,VALID,9b4ca859-f967-4b4f-a8f2-b8ee7af2b133
+LZK37,TRUMP,Ex-President Donald Trump campaign event,Indianola,Iowa,2024-01-14,09:00,41.35805,-93.55744,VALID,f77dcfb1-8202-455b-9397-afb2e53d8e6a
+LZK40,TRUMP,Ex-President Donald Trump campaign event,Atkinson,New Hampshire,2024-01-16,12:00,42.83842,-71.147,VALID,4ca73c1a-7efe-454b-a77a-62894760da3f
+MAA18,TRUMP,Ex-president Donald Trump campaign event,Portsmouth,New Hampshire,2024-01-17,19:00,43.07704,-70.75766,VALID,9d9e90b4-6f5a-46c7-82fe-4353889a1d95
+MAD07,BIDEN,President Joe Biden holds event to promote his economic agenda,Raleigh,North Carolina,2024-01-18,14:00,35.7721,-78.63861,VALID,8acf40d8-744d-480c-a5ff-f29dfaf7ae4e
+MAH16,TRUMP,Ex-president Donald Trump campaign event,Concord,New Hampshire,2024-01-19,16:00,43.20814,-71.53757,VALID,71705a39-fa7f-4f12-ad9f-845205d746be
+MAH09,TRUMP,Ex-President Donald Trump campaign event,Manchester,New Hampshire,2024-01-20,16:00,42.99564,-71.45479,VALID,11ddc200-9343-4aa9-a77c-52f15f4fd74b
+MAH10,TRUMP,Ex-President Donald Trump campaign event,Rochester,New Hampshire,2024-01-21,16:00,43.30453,-70.97562,VALID,ac2668a0-5938-4031-8528-c4294478c06b
+MAQ50,TRUMP,Former President Donald Trump holds rally,Laconia,New Hampshire,2024-01-22,,43.52785,-71.47035,VALID,d52d18dc-85ed-4473-b293-36edc1ed0f3f
+MAP67,BIDEN,President Joe Biden gives a speech on abortion rights,Manassas,Virginia,2024-01-23,,38.75095,-77.47527,VALID,660361b0-c2b7-4889-8705-d5e45fa1e423
+MBA83,TRUMP,Ex-President Donald Trump campaign rally,Las Vegas,Nevada,2024-01-27,11:00,36.17497,-115.13722,VALID,5e0ee3de-db64-4f7f-bebf-ac9000e503fe
+MBE41,BIDEN,Biden speaks at political event,Columbia,South Carolina,2024-01-27,19:00,34.00071,-81.03481,VALID,0a1a3dc7-29dc-42a7-bb91-d146d6ea8489
+MBK37,BIDEN,President Joe Biden visits Florida for campaign events,Palm Beach,Florida,2024-01-30,,26.70562,-80.03643,VALID,6af7ef0b-c752-44b5-a834-dae2e3fa0b6a
+MBY93,BIDEN,President Joe Biden stops at campaign headquarters,Wilmington,Delaware,2024-02-03,,39.74595,-75.54659,VALID,8a8c7324-3e57-433e-8cb3-fad11ad01cd6
+MBY43,BIDEN,US President Biden holds campaign event,Las Vegas,Nevada,2024-02-04,16:30,36.17497,-115.13722,VALID,432a2edc-9fc5-453b-badd-cb261048c661
+MCW00,TRUMP,Trump holds a “Get Out the Vote” rally,Conway,South Carolina,2024-02-10,14:00,33.836,-79.04781,VALID,8905ba3c-8564-4524-bb54-853b61ef18b0
+MDE10,TRUMP,Donald Trump holds a Get Out the Vote rally US election,Waterford Township,United States,2024-02-17,17:00,,,CANDIDATE,545d432d-5f5b-4062-9208-bb783e1b9b8a
+MEC11,BIDEN,President Joe Biden attends campaign reception,Los Angeles,California,2024-02-20,19:15,34.05223,-118.24368,VALID,28c8b26d-cc28-4f03-8000-20323523ca9a
+MEL81,TRUMP,Former US President and 2024 presidential hopeful Donald Trump addresses a Get Out the Vote rally ,Rock Hill,South Carolina,2024-02-23,,34.92487,-81.02508,VALID,667e5762-a3e6-4b4b-9d23-61fc232bfc7f
+MEN33,TRUMP,Trump Campaign to Host an Election Night Watch Party,Columbia,South Carolina,2024-02-24,16:00,34.00071,-81.03481,VALID,c976f030-2449-4e81-b2fd-a6f390b2a9b5
+MFI09,TRUMP,Donald Trump campaign event,Greensboro,North Carolina,2024-03-02,13:00,36.07264,-79.79198,VALID,ff29493b-3336-4474-8ef1-153b920f720c
+MFI04,TRUMP,Donald Trump holds a Get Out the Vote rally,Richmond,Virginia,2024-03-02,17:30,37.55376,-77.46026,VALID,39ffd77d-ed9b-4b8d-861b-c41a55b2cfc1
+MFN61,TRUMP,Donald Trump holds a Super Tuesday election night watch party,Palm Beach,Florida,2024-03-05,08:00,26.70562,-80.03643,VALID,72d06193-0ddd-4fba-917c-c856874f6183
+MFY56,BIDEN,President Joe Biden speaks at a campaign event,Philadelphia,Pennsylvania,2024-03-08,15:00,39.95234,-75.16379,VALID,13a886f8-1bbf-46f1-ab18-573868f3cf8c
+MGC18,BIDEN,Presidenti Biden attends campaign events,Atlanta,Georgia,2024-03-09,,33.749,-84.38798,VALID,ee16ce82-130b-4057-812d-11b22da49d26
+MGB52,TRUMP,Donald Trump speaks during a Get-Out-the-Vote rally,Rome,Unknown,2024-03-09,,34.25704,-85.16467,NOT_USABLE,881cfc55-3d26-4619-9baa-0b31b49cacb3
+MGD37,BIDEN,President Joe Biden speaks about lowering costs for families,Manchester,New Hampshire,2024-03-11,15:00,42.99564,-71.45479,VALID,bf6d2ecd-ecbd-4353-89b0-8b7d15ba804d
+MGI45,BIDEN,President Biden holds a campaign meeting at the Teamsters Union,Washington,District of Columbia,2024-03-12,12:00,38.89511,-77.03637,VALID,bc70398b-5883-4cad-8650-5f7277f52d6a
+MGK11,BIDEN,President Joe Biden speaks on the economy,Milwaukee,Wisconsin,2024-03-13,13:30,43.0389,-87.90647,VALID,282dfd84-d9f3-4652-9c85-7927a9d278fe
+MGM45,BIDEN,President Joe Biden attends a campaign event,Saginaw,Michigan,2024-03-14,08:00,43.41947,-83.95081,VALID,e1ea7349-8e2c-4e63-9d29-6b882403e134
+MGU11,TRUMP,Ex-President Donald Trump campaign event,Vandalia,United States,2024-03-16,16:00,39.89061,-84.19883,CANDIDATE,5696a424-6317-4308-b78f-decdf13b7bfa
+MGZ70,BIDEN,President Joe Biden delivers remarks on lowering costs for American families,Las Vegas,Nevada,2024-03-19,,36.17497,-115.13722,VALID,0d85279e-6287-4e22-a567-30dde4a66b68
+MGZ69,BIDEN,President Joe Biden participates in a campaign event,Reno,Nevada,2024-03-19,,39.52963,-119.8138,VALID,31490d85-94ab-4ebc-a085-f268d289ce09
+MGZ71,BIDEN,President Joe Biden participates in a campaign event,Phoenix,Arizona,2024-03-19,,33.44838,-112.07404,VALID,d36fa0ee-0838-44dd-9727-fb078995b102
+MHC76,BIDEN,President Biden participates in campaign receptions,Dallas,Texas,2024-03-20,18:00,32.78306,-96.80667,VALID,2d9ba530-e1f6-4f02-8238-44cac3853971
+MGZ74,BIDEN,President Joe Biden takes part in a campaign event,Houston,Texas,2024-03-21,17:00,29.76328,-95.36327,VALID,b1e9360c-b49f-4b13-83d6-a9f4f0c42e42
+MHM97,BIDEN,"President Joe Biden, ex-presidents Barack Obama, Bill Clinton hold election fundraiser",New York,State of New York,2024-03-28,17:00,40.71427,-74.00597,VALID,198e794d-3ca5-4c0f-9a14-f437f9ac2c4f
+MIJ92,TRUMP,Ex-president Donald Trump delivers remarks on immigration and border crime,Grand Rapids,Michigan,2024-04-02,14:30,42.96336,-85.66809,VALID,0ac2edbb-74ea-47ad-9c59-8c425bb365cb
+MJA33,BIDEN,"US President Joe Biden speaks about student debt relief in Madison, Wisconsin",Madison,Wisconsin,2024-04-08,,43.07305,-89.40123,VALID,27918dfa-3217-4d0b-9a7d-d81e0208bbb5
+MJJ50,TRUMP,Donald Trump holds campaign event in US state of Georgia,Washington,District of Columbia,2024-04-10,,38.89511,-77.03637,VALID,0cc4714a-4894-4ce4-b29d-d078d826aa03
+MIY80,TRUMP,Former US president Donald Trump holds a rally,Schnecksville,United States,2024-04-13,19:00,,,CANDIDATE,553180b5-1a01-4fa3-b67b-e6d607ab14bf
+MJW52,BIDEN,President Joe Biden holds campaign rally in his hometown,Scranton,Pennsylvania,2024-04-16,,41.40916,-75.6649,VALID,847365d0-272d-4140-a713-095583858e18
+MJW57,BIDEN,President Joe Biden campaigns in Pittsburgh,Pittsburgh,Pennsylvania,2024-04-17,,40.44062,-79.99589,VALID,b67058a5-9847-4ffc-b3da-fa6e2ceafeb1
+MKD99,BIDEN,US President Joe Biden speaks at a campaign event,Philadelphia,Pennsylvania,2024-04-18,,39.95234,-75.16379,VALID,b64b0b2b-4fbb-4c47-ade9-4d54c0b3a3fe
+MJZ76,TRUMP,Donald Trump holds a political rally,Wilmington,North Carolina,2024-04-20,19:00,34.22573,-77.94471,VALID,5b1bfc29-bef3-4b28-88ad-a66edc8918e0
+MKX61,BIDEN,President Joe Biden event on his economic agenda,Syracuse,State of New York,2024-04-25,14:00,43.04812,-76.14742,VALID,7c7381f8-aaa6-4447-a3d4-5483d774a12d
+MLN01,TRUMP,Donald Trump holds a campaign rally,Waukesha,Wisconsin,2024-05-01,14:00,43.01168,-88.23148,VALID,400b8960-acfb-472b-b105-94febb7a2043
+MLN02,TRUMP,Donald Trump holds a campaign rally,"Freeland, Michigan",United States,2024-05-01,18:00,,,CANDIDATE,6508a040-8a8d-455f-9e92-a77063a1265d
+MLO89,BIDEN,President Joe Biden delivers remarks on infrastructure and employment,Wilmington,North Carolina,2024-05-02,,34.22573,-77.94471,VALID,2d53703a-dda0-4c6d-bbe3-db9a9a255388
+MMD10,BIDEN,President Joe Biden delivers remarks on investment,"Sturtevant, Wisconsin",United States,2024-05-08,12:45,,,CANDIDATE,b7a36996-e19f-424b-8bf9-00d59ccee0b5
+MMD21,BIDEN,President Joe Biden participates in a campaign event,Racine,Wisconsin,2024-05-08,13:00,42.72613,-87.78285,VALID,f12f3af5-69c9-4122-a08f-0389b73cfc8f
+MMG66,TRUMP,Donald Trump holds presidential election rally,Wildwood,New Jersey,2024-05-11,17:00,38.99178,-74.81489,VALID,94598c25-04f1-434e-a578-3c6fe0f0ccba
+MMQ43,BIDEN,President Joe Biden campaigns for presidential election,Atlanta,Georgia,2024-05-18,,33.749,-84.38798,VALID,c2606af7-67e6-40df-bcc4-0387d7c54f45
